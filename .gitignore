@@ -20,6 +20,11 @@ yarn-error.log*
 *.sln
 *.sw?
 
+# Clacky-related configuration
+.1024*
+!.1024
+.breakpoints
+
 internal-chat-linux
 internal-chat-macos
 internal-chat-win.exe
